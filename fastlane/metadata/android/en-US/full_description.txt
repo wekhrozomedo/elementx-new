@@ -1,0 +1,39 @@
+Element X brings you both sovereign & seamless collaboration built on Matrix.
+
+The collaboration capabilities include chat & video calls with the modern set of features such as:
+ • public & private channels
+ • room moderation & access control
+ • replies, reactions, polls, read receipts, pinned messages, etc.
+ • simultaneous chat & calls (picture in picture)
+ • decentralized & federated communication across organizations
+
+All this comes in a secure & sovereign fashion without compromising responsiveness or overall usability of the app:
+ • enterprise-grade single sign-on
+ • easy & secure login & device verification via QR-code
+ • end to end encryption & zero trust
+ • protection against MITM & other cyber attacks
+
+If you’re a new user, use the new Element X app from the start. Compared to the current Element app you will get:
+ • greatly enhanced performance, sleek user interface and overall better user experience
+ • enterprise-grade support for single sign-on (OIDC)
+ • QR-code based login & device verification
+ • natively integrated Element Call for video calls
+ • continuous improvements, bug fixes and new features
+
+If you’re an existing user, using the current Element app - check out the new Element X and start planning your transition. The current Element app will be phased out and will only get critical security updates.
+
+<b>Own your data</b>
+Matrix-based, Element X lets you self-host your data or choose from any free public server (the default is matrix.org, but there are plenty of others to choose from). However you host, you have ownership; it’s your data. You’re not the product. You’re in control.
+
+<b>Interoperate natively</b>
+Enjoy the freedom of the Matrix open standard! You have native interoperability with any other Matrix-based app. So just like email, it doesn't matter if your friends, partners or customers are on a different Matrix-based app - you can still connect.
+
+<b>Encrypt your data</b>
+Enjoy your right to private conversations - free from data mining, ads and all the rest of it - and stay secure. Only the people in your conversation can read your messages.
+
+<b>Chat across multiple devices</b>
+Stay in touch wherever you are with fully synchronized message history across all your devices, even those running Element legacy app, and on the web at https://app.element.io
+
+The application requires the android.permission.REQUEST_INSTALL_PACKAGES permission to enable the installation of applications received as attachments, ensuring seamless and convenient access to new software within the app.
+
+The application requires the USE_FULL_SCREEN_INTENT permission to ensure our users can effectively receive call notifications even when their devices are locked.
